@@ -52,15 +52,3 @@ function onPanTo() {
     mapService.panTo(35.6895, 139.6917)
 }
 
-console.log('aaaaaa')
-console.log('cccc')
-
-
-console.log('eeee')
-
-console.log('aa')
-
-
-console.log('aaa 12')
-
-
