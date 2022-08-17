@@ -53,7 +53,6 @@ function onPanTo() {
 }
 
 console.log('aaaaaa')
-console.log('bbbb')
 console.log('cccc')
 
 
